@@ -8,4 +8,4 @@
 npms helpful-helpers
 ```
 
-Your default browser will open up to `https://npms.io/search?term=helpful-helpers`
+Your default browser will open up to `https://npms.io/search?q=helpful-helpers`
